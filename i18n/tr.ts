@@ -1,0 +1,27 @@
+export default {
+  'Ana Sayfa': 'Ana Sayfa',
+  'Mesajlar': 'Mesajlar',
+  'Profil': 'Profil',
+  'Bildirimler': 'Bildirimler',
+  'Yardım İsteği Oluştur': 'Yardım İsteği Oluştur',
+  'Yardım İstekleri': 'Yardım İstekleri',
+  'Yakında': 'Yakında',
+  'Yardım Teklif Et': 'Yardım Teklif Et',
+  'Düşük': 'Düşük',
+  'Orta': 'Orta',
+  'Yüksek': 'Yüksek',
+  'newRequestNotification': '{{category}} kategorisinde yeni istek: {{title}}',
+  'requestCreatedNotification': '"{{title}}" isteğiniz oluşturuldu',
+  'Giriş Yap': 'Giriş Yap',
+  'Kayıt Ol': 'Kayıt Ol',
+  'Mesajları görmek için giriş yapın': 'Mesajları görmek için giriş yapın',
+  'Profili görmek için giriş yapın': 'Profili görmek için giriş yapın',
+  'Bildirimleri görmek için giriş yapın': 'Bildirimleri görmek için giriş yapın',
+  'Komşu Yardımlaşma Platformu': 'Komşu Yardımlaşma Platformu',
+  'İsim': 'İsim',
+  'Mahalle': 'Mahalle',
+  'Türkçe': 'Türkçe',
+  'English': 'İngilizce',
+  // Add more translations as needed
+};
+

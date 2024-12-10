@@ -1,0 +1,18 @@
+{
+  "neighborhoodPlatform": "Neighborhood Help Platform",
+  "home": "Home",
+  "messages": "Messages",
+  "profile": "Profile",
+  "notifications": "Notifications",
+  "login": "Login",
+  "name": "Name",
+  "neighborhood": "Neighborhood",
+  "joinDate": "Join Date",
+  "helpCount": "Help Count",
+  "noProfileData": "No profile data available",
+  "noMessages": "You have no messages",
+  "noNotifications": "You have no notifications",
+  "welcomeMessage": "Welcome to the Neighborhood Help Platform!",
+  "createHelpRequest": "Create Help Request"
+}
+

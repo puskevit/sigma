@@ -1,0 +1,18 @@
+{
+  "neighborhoodPlatform": "Komşu Yardımlaşma Platformu",
+  "home": "Ana Sayfa",
+  "messages": "Mesajlar",
+  "profile": "Profil",
+  "notifications": "Bildirimler",
+  "login": "Giriş",
+  "name": "İsim",
+  "neighborhood": "Mahalle",
+  "joinDate": "Katılım Tarihi",
+  "helpCount": "Yardım Sayısı",
+  "noProfileData": "Profil bilgisi bulunamadı",
+  "noMessages": "Mesajınız bulunmamaktadır",
+  "noNotifications": "Bildiriminiz bulunmamaktadır",
+  "welcomeMessage": "Komşu Yardımlaşma Platformu'na hoş geldiniz!",
+  "createHelpRequest": "Yardım Talebi Oluştur"
+}
+
